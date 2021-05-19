@@ -1,10 +1,10 @@
 /*鼠标样式*/
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/zjwo/CDN/img/blog/default.cur), default
+    cursor: url(https://cdn.jsdelivr.net/gh/caibhh/CDN/img/blog/default.cur), default
 }
 
 a, img {
-    cursor: url(https://cdn.jsdelivr.net/gh/zjwo/CDN/img/blog/pointer.cur), default
+    cursor: url(https://cdn.jsdelivr.net/gh/caibhh/CDN/img/blog/pointer.cur), default
 }
 
 /*页脚部分*/
@@ -44,7 +44,7 @@ a, img {
 /*字体*/
 @font-face {
     font-family: MyFont;
-    src: url(https://cdn.jsdelivr.net/gh/zjwo/CDN@master/font/JetBrainsMono-Medium.woff2);
+    src: url(https://cdn.jsdelivr.net/gh/caibhh/CDN@master/font/JetBrainsMono-Medium.woff2);
     font-display: swap
 }
 
@@ -55,7 +55,7 @@ a, img {
 
 /*@font-face {*/
 /*    font-family: 'arzhu';*/
-/*    src: url('https://cdn.jsdelivr.net/gh/zjwo/CDN@master/font/arzhu.ttf');*/
+/*    src: url('https://cdn.jsdelivr.net/gh/caibhh/CDN@master/font/arzhu.ttf');*/
 /*    font-display: swap*/
 /*}*/
 
