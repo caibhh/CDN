@@ -1,1 +1,1 @@
-# CDN
+## Static files
